@@ -8,6 +8,5 @@ setup(
     scripts=[],
     url='https://github.com/18sg/undergroundStatus',
     description='A small python module to grab line statuses from the London Underground',
-    long_description=open('README.md').read(),
     
 )
